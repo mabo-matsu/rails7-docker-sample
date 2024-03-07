@@ -31,5 +31,5 @@
 この環境は、次の `rails new` コマンドを使用して初期化されました：
 
 ```bash
-rails new . --force --database=mysql
+rails new . --force --asset-pipeline=propshaft --css=sass --database=mysql
 ```

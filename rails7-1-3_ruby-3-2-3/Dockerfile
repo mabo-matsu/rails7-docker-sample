@@ -15,3 +15,4 @@ RUN bundle install
 
 # pumaサーバのポートを公開
 EXPOSE 3000
+
